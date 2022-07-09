@@ -1,4 +1,4 @@
-###Hello there!
+## Hello there!
 <!-- General Kenobi! You are a bold one. -->
 
 So, uh, welcome to my GitHub page. Not a whole lot of stuff going on here for now, save for some widgets that ideally should work as intended (try switching themes).
@@ -8,7 +8,7 @@ Go check out my repos!
 
 <!-- Light Mode -->
 <!-- Also, if you've ever wondered how to center a div, here's how: -->
-<div style="text-align:center"> 
+<div align="center"> 
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
         <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=sharpenedkey&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="sharpenedkey's language stats" />
     </a>
@@ -18,7 +18,7 @@ Go check out my repos!
 </div>
 
 <!-- Dark Mode -->
-<div style="text-align:center"> 
+<div align="center"> 
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
         <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=sharpenedkey&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=tokyonight&bg_color=000000#gh-dark-mode-only" alt="sharpenedkey's language stats" />
     </a>
