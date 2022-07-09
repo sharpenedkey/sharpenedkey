@@ -16,6 +16,7 @@ Go check out my repos!
         <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=sharpenedkey&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="sharpenedkey's Github stats" />
     </a>
 </div>
+<!-- The method might be just a little bit deprecated, but hey, it works ¯\_(ツ)_/¯ -->
 
 <!-- Dark Mode -->
 <div align="center"> 
