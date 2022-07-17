@@ -1,10 +1,12 @@
 ## Hello there!
 <!-- General Kenobi! You are a bold one. -->
 
-So, uh, welcome to my GitHub page. Not a whole lot of stuff going on here for now, save for some widgets that ideally should work as intended (try switching themes).
+So, uh, welcome to my GitHub page. Not a whole lot of stuff going on here for now, save for some widgets that ideally should work as intended (try hurting your eyes by switching to light theme).
 
-Go check out my repos!
-<!-- Yes, yes, not that many of them, but hey, you've gotta start somewhere, right? -->
+Maybe you'll find more in my repos. Maybe not. 
+
+Only one way to find out!
+<!-- Yes, yes, not that many of them, but you've gotta start somewhere ¯\_(ツ)_/¯ -->
 
 <!-- Light Mode -->
 <!-- Also, if you've ever wondered how to center a div, here's how: -->
@@ -16,7 +18,7 @@ Go check out my repos!
         <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=sharpenedkey&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="sharpenedkey's Github stats" />
     </a>
 </div>
-<!-- The method might be just a little bit deprecated, but hey, it works ¯\_(ツ)_/¯ -->
+<!-- The method might be just a little bit deprecated, but hey, it just works :todd: -->
 
 <!-- Dark Mode -->
 <div align="center"> 
