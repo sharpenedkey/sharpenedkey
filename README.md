@@ -5,7 +5,7 @@ So, uh, welcome to my GitHub page. Not a whole lot of stuff going on here for no
 
 Maybe you'll find more in my repos. Maybe not. 
 
-Only one way to find out!
+There is but one way to find out.
 <!-- Yes, yes, not that many of them, but you've gotta start somewhere ¯\_(ツ)_/¯ -->
 
 <!-- Light Mode -->
