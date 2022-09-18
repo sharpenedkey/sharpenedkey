@@ -26,6 +26,6 @@ There is but one way to find out.
         <img height=190 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=sharpenedkey&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=tokyonight&bg_color=000000#gh-dark-mode-only" alt="sharpenedkey's language stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-        <img height=190 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=sharpenedkey&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=tokyonight&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
+        <img height=190 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=sharpenedkey&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=tokyonight&bg_color=000000#gh-dark-mode-only" alt="sharpenedkey's Github stats" />
     </a>
 </div>
