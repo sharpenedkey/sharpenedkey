@@ -1,7 +1,7 @@
 ## Hello there!
 <!-- General Kenobi! You are a bold one. -->
 
-So, welcome to my GitHub page! Not exactly _too_ much stuff going on here as of now, save for some widgets that ideally should work as intended (try hurting your eyes by switching to light theme).
+So, welcome to my GitHub page! Not exactly _too_ much stuff going on here as of now, save for some widgets that ideally should work as intended (try hurting your eyes by switching to light theme...or relaxing them by turning to the dark side).
 
 Maybe you'll find more in my repos, wink-wink.
 
