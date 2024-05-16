@@ -1,12 +1,9 @@
 ## Hello there!
 <!-- General Kenobi! You are a bold one. -->
 
-So, welcome to my GitHub page! Not exactly _too_ much stuff going on here as of now, save for some widgets that ideally should work as intended (try hurting your eyes by switching to light theme...or relaxing them by turning to the dark side).
+So, welcome to my GitHub page! Not exactly _too_ much stuff going on here as of now, save for some widgets that ideally should work as intended.
 
-Maybe you'll find more in my repos, wink-wink.
-
-There is but one way to find out.
-<!-- There may not be that many of them, but you've gotta start somewhere ¯\_(ツ)_/¯ -->
+Maybe you'll find more in my repos.
 
 <!-- Light Mode -->
 <!-- Also, if you've ever wondered how to center a div, here's how: -->
